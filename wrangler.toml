@@ -1,0 +1,7 @@
+name="fastapi"
+compatibility_date = "2023-08-23"
+
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AeTdAAIjcDFlNWI1MjVlZjIwMzU0NmMwOWNmYWRlNjQ1ZDdmNjA5YXAxMA"
+UPSTASH_REDIS_REST_URL="https://unbiased-monitor-58589.upstash.io"
